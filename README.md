@@ -1,7 +1,7 @@
 # Build an advanced malicious program using java language for windows and linux platform
 
 we will try to hide a malicious code into legal program.
-# screenshot
+# screenshot program target side
 ![](img2.png)
 
 this legal program has this features :
@@ -24,3 +24,12 @@ the data that was collected from the legal program ( mathematica ) are :
 - Name of root user.
 - Screenshot target.
 
+# screenshot program hacker side
+![](img1.png)
+
+the mathematica program just for target side , we will also build another program (spy) for hacker side , which provide the attacker all news and data targets.
+
+through this program the hacker can do :
+- get a report about data targets.
+- see the screenshot of targets.
+- save data target into text file.
