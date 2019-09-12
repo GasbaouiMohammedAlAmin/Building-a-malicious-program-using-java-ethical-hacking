@@ -2,7 +2,7 @@
 
 we will try to hide a malicious code into legal program.
 # screenshot
-![]img1 (1).png
+![](img1 (1).png)
 
 this legal program has this features :
 
