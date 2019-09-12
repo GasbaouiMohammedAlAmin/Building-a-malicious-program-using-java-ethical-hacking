@@ -15,17 +15,12 @@ this legal program has this features :
 - interacts with the command shell
 
 the data that was collected from the legal program ( mathematica ) are :
-1- public ip and local ip target.
-2- Host Mac Ethernet board.
+1 public ip and local ip target.
+2 Host Mac Ethernet board.
+3 All interfaces network.
+4 All connected ip addresses from the target.
+5 operating system info.
+6 All list process.
+7 Name of root user.
+8 Screenshot target.
 
-All interfaces network.
-
-All connected ip addresses from the target.
-
-operating system info.
-
-All list process.
-
-Name of root user.
-
-Screenshot target.
